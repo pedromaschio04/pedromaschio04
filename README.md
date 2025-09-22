@@ -169,6 +169,8 @@ Olá, me chamo Pedro H. de Paula Maschio, sou formado em Análise e Desenvolvime
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
 <p>
   <img 
     align="left" 
@@ -182,7 +184,7 @@ Olá, me chamo Pedro H. de Paula Maschio, sou formado em Análise e Desenvolvime
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromaschio04&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=15" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromaschio04&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
